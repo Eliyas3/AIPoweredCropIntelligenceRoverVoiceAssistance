@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI Powered Crop Intelligence Rover 🌿🔬
+# AI Powered Crop Intelligence Rover Voice Assistance🌿🔬
 
 **An end-to-end, production-grade Agricultural Computer Vision and Agro-Climatic Intelligence Platform engineered for automated foliar disease diagnosis, dual-layer spatial canopy localization, subpixel damage quantification, and IoT rover telemetry.**
 
@@ -21,7 +21,7 @@
 <p align="center">
   🌐 <b>Azure Deployed Link:</b> <a href="https://aipoweredcropintelligencerover.dpdns.org">aipoweredcropintelligencerover.dpdns.org</a> &nbsp;•&nbsp;
   🎥 <b>Live Video Drive Link:</b> <a href="http://tinyurl.com/projectgithubrepositorylink">http://tinyurl.com/projectgithubrepositorylink</a> &nbsp;•&nbsp;
-  💻 <b>GitHub:</b> <a href="https://github.com/MohammadFayasKhan/AIPoweredCropIntelligenceRover">AIPoweredCropIntelligenceRover</a>
+  💻 <b>GitHub:</b> <a href="https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/">AIPoweredCropIntelligenceRover</a>
 </p>
 
 </div>
@@ -43,7 +43,7 @@
 | **Team Name** | **Innovvex26** |
 | **Azure Deployed Link** | **[`https://aipoweredcropintelligencerover.dpdns.org`](https://aipoweredcropintelligencerover.dpdns.org)** |
 | **Live Video Drive Link** | **[`https://tinyurl.com/projectgithubrepositorylink`](http://tinyurl.com/projectgithubrepositorylink)** |
-| **GitHub Repository** | **[`https://github.com/MohammadFayasKhan/AIPoweredCropIntelligenceRover`](https://github.com/MohammadFayasKhan/AIPoweredCropIntelligenceRover)** |
+| **GitHub Repository** | **[`https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/`](https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/)** |
 | **Technical Documentation** | **[`docs/`](docs/)** |
 
 ---
@@ -289,8 +289,8 @@ CvProject/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MohammadFayasKhan/AIPoweredCropIntelligenceRover.git
-cd AIPoweredCropIntelligenceRover
+git clone https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance.git
+cd AIPoweredCropIntelligenceRoverVoiceAssistance
 ```
 
 ### 2. Set Up Virtual Environment & Dependencies
@@ -359,11 +359,11 @@ node frontend/test_frontend.js
 ### **Smart India Hackathon 2026 - Team Innovex**
 **Team ID: SIH-H-B2-048 | Problem Statement: SIH26180 (Qualcomm Inc.)**
 
-Mohammad Fayas Khan & Team Innovex  
+Mohammad Eliyas Khan & Team Innovex  
 *Agricultural Computer Vision, Embedded Robotics & Edge Intelligence*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadFayasKhan/AIPoweredCropIntelligenceRover)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayaskhanmohammad@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliyaskhanmohammad36@gmail.com)
 
 </div>
 
