@@ -11,7 +11,6 @@
 [![PyTest](https://img.shields.io/badge/Tests-134_Passing-22c55e?style=flat-square&logo=pytest&logoColor=white)](tests/)
 [![Frontend](https://img.shields.io/badge/Frontend_Tests-19_Passing-22c55e?style=flat-square&logo=nodedotjs&logoColor=white)](frontend/test_frontend.js)
 [![Azure Deployed](https://img.shields.io/badge/Azure_Deployed-aipoweredcropintelligencerover.dpdns.org-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aipoweredcropintelligencerover.dpdns.org)
-[![Live Video Demo](https://img.shields.io/badge/Live_Video-Google_Drive-FF0000?style=flat-square&logo=google-drive&logoColor=white)](http://tinyurl.com/projectgithubrepositorylink)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 
 <br/>
