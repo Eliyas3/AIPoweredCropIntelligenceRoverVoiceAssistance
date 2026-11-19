@@ -19,7 +19,6 @@
 
 <p align="center">
   🌐 <b>Azure Deployed Link:</b> <a href="https://aipoweredcropintelligencerover.dpdns.org">aipoweredcropintelligencerover.dpdns.org</a> &nbsp;•&nbsp;
-  🎥 <b>Live Video Drive Link:</b> <a href="http://tinyurl.com/projectgithubrepositorylink">http://tinyurl.com/projectgithubrepositorylink</a> &nbsp;•&nbsp;
   💻 <b>GitHub:</b> <a href="https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/">AIPoweredCropIntelligenceRover</a>
 </p>
 
