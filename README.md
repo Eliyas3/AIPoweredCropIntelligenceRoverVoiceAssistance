@@ -40,7 +40,6 @@
 | **Team ID** | **173712​** |
 | **Team Name** | **Innovvex26** |
 | **Azure Deployed Link** | **[`https://aipoweredcropintelligencerover.dpdns.org`](https://aipoweredcropintelligencerover.dpdns.org)** |
-| **Live Video Drive Link** | **[`https://tinyurl.com/projectgithubrepositorylink`](http://tinyurl.com/projectgithubrepositorylink)** |
 | **GitHub Repository** | **[`https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/`](https://github.com/Eliyas3/AIPoweredCropIntelligenceRoverVoiceAssistance/)** |
 | **Technical Documentation** | **[`docs/`](docs/)** |
 
